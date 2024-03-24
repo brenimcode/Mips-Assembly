@@ -1,5 +1,5 @@
 .data
-	texto: .asciiz "Aula de Haskell, DIVISAO de INTEIROS"
+	texto: .asciiz "Aula de ASSEMBLY,DIVISAO de INTEIROS"
 .text
 	li $v0, 4
 	la $a0, texto
